@@ -1,0 +1,3 @@
+The script uses only Python's built-in libraries (os, hashlib, time, random), which come standard with every Python installation. You don't need to install any external packages to run the code.
+
+Even though it's empty, it's good practice to include a requirements.txt file in your GitHub project to signal that no special installations are needed.
